@@ -1,0 +1,11 @@
+{
+  "scopeName": "source.fpp",
+  "patterns": [
+    { "name": "keyword.control.fpp", "match": "\\b(is|oris|else|when|define)\\b" },
+    { "name": "variable.language.fpp", "match": "\\b(var|show|read)\\b" },
+    { "name": "string.quoted.double.fpp", "begin": "\"", "end": "\"" },
+    { "name": "comment.line.double-slash.fpp", "match": "//.*$" },
+    { "name": "constant.numeric.fpp", "match": "\\b\\d+(\\.\\d+)?\\b" },
+    { "name": "entity.name.function.fpp", "match": "\\b[a-zA-Z_][a-zA-Z0-9_]*(?=\\s*\\{)" }
+  ]
+}

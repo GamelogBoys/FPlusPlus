@@ -1,0 +1,24 @@
+{
+  "name": "fpp-language",
+  "displayName": "F++ Programming Language",
+  "description": "Official syntax highlighting for the F++ language.",
+  "version": "1.0.0",
+  "publisher": "YourName",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Programming Languages"],
+  "contributes": {
+    "languages": [{
+      "id": "fpp",
+      "aliases": ["F++", "fpp"],
+      "extensions": [".fpp"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "fpp",
+      "scopeName": "source.fpp",
+      "path": "./fpp.tmLanguage.json"
+    }]
+  }
+}
