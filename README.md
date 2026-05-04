@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/362699cd-4df7-4fb1-a6ef-7d7a7f85d962" />
+<img width="101" height="101" alt="logo" src="https://github.com/user-attachments/assets/362699cd-4df7-4fb1-a6ef-7d7a7f85d962" />
 F++ (FPlusPlus) 🚀
 A lightweight, high-performance programming language designed for child programmers, animators, and web developers.
 
