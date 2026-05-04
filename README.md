@@ -1,4 +1,4 @@
-<center><img width="101" height="101" alt="logo" src="https://github.com/user-attachments/assets/362699cd-4df7-4fb1-a6ef-7d7a7f85d962" />
+<div align="center"><img width="101" height="101" alt="logo" src="https://github.com/user-attachments/assets/362699cd-4df7-4fb1-a6ef-7d7a7f85d962" />
 F++ (FPlusPlus) 🚀
 A lightweight, high-performance programming language designed for child programmers, animators, and web developers.
 
@@ -80,4 +80,4 @@ Free for personal and commercial creative projects.
 
 The core engine (frun.exe) is protected and may not be reverse-engineered.
 
-Developed with ❤️ by SS Studios.
+Developed with ❤️ by SS Studios.</div>
