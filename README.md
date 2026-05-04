@@ -4,7 +4,7 @@ A lightweight, high-performance programming language designed for child programm
 
 F++ is a custom-built language featuring a professional C++ interpreter and a dedicated installer for worldwide distribution. Whether you're building logic for VFX or simple automation, F++ provides a minimalist and powerful syntax.
 
-<img width="1366" height="728" alt="test fpp - F++ - Visual Studio Code 04-05-2026 01_22_56" src="https://github.com/user-attachments/assets/d385baba-d90b-4649-b676-90dfd83ee269" />
+<img width="1366" height="728" alt="test fpp - F++ - Visual Studio Code 04-05-2026 01_22_56" src="https://github.com/user-attachments/assets/d385baba-d90b-4649-b676-90dfd83ee269" /></div>
 
 ✨ Key Features
 Fast Interpreter: Built with C++ for maximum execution speed.
@@ -80,4 +80,4 @@ Free for personal and commercial creative projects.
 
 The core engine (frun.exe) is protected and may not be reverse-engineered.
 
-Developed with ❤️ by SS Studios.</div>
+Developed with ❤️ by SS Studios.
